@@ -27,7 +27,7 @@ array.shift
 end
 
 def retrieve_element_from_index(array, index_number)
-  array = ["am" "wow", "arrays!"]
+  array = ["am", "wow", "arrays!"]
   array[0]
 end
 
